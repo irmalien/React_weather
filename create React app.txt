@@ -1,0 +1,10 @@
+npm install -g create-react-app //install globaly
+
+create-react-app jsx
+vai
+npx create-react-app jsx
+
+DEPENDENCIES
+-Webpack
+-Babel
+-Dev Server
